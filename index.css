@@ -26,6 +26,10 @@ body {
     background-color: brown;
 }
 
+.grid-div-brown:hover {
+    background-color: orange;
+}
+
 .grid-div-white {
     background: white;
 }
